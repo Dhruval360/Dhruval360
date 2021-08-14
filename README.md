@@ -2,25 +2,25 @@
 
 ## About Me
 
-I am a student pursuing B.Tech in computer science from PES University.
-- 🔭 I’m currently working on Vehicle Autonomy.
+I'm a student pursuing B.Tech in computer science from PES University.
+- 🔭 I’m currently exploring the fields of Computer Vision and Deep Learning.
 - 🤝🏼 I’m looking to collaborate on Robotics projects.
-- 📫 Reach me at dhruvalpb@gmail.com
-
+- 📫 Reach me at  [![Linkedin Badge](https://img.shields.io/badge/-dhruvalpb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhruvalpb/)](https://www.linkedin.com/in/dhruvalpb/) [![Gmail Badge](https://img.shields.io/badge/-dhruvalpb-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvalpb@gmail.com)](mailto:dhruvalpb@gmail.com)
 
 ## My Github Stats
 <p align="center">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Dhruval360&theme=react&hide_border=true&fire=DD9308&ring=DD2727&stroke=00000000" width="370vw"/>  
-    <img alt="Dhruval's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Dhruval360&show_icons=true&count_private=true&theme=react&hide_border=true" width="370vw"/>
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Dhruval360&theme=react&hide_border=true&fire=DD9308&ring=DD2727&stroke=00000000" width="375vw"/>  
+    <img alt="Dhruval's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Dhruval360&show_icons=true&count_private=true&theme=react&hide_border=true" width="375vw"/>
     <br/>
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruval360&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="370vw"/>
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruval360&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="375vw"/>
     <br/><br/>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     <br/><br/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-Dhruval360&color=blue"></img>
-<a href="https://github.com/Dhruval360?tab=followers"><img src="https://img.shields.io/github/followers/Dhruval360?label=Followers&style=social" alt="GitHub Badge"></a>
+<p align="right">
+    <img src="https://komarev.com/ghpvc/?username=your-github-Dhruval360&color=blue"></img>
+</p>
 <!--
 - 🌱 I’m currently learning ...
 - 🤔 I’m looking for help with ...
