@@ -6,7 +6,7 @@ I'm a student pursuing B.Tech in computer science from PES University.
 - 🔭 I’m currently exploring the fields of Computer Vision and Deep Learning.
 - 🤝🏼 I’m looking to collaborate on Robotics projects.
 - 📫 Reach me at  [![Linkedin Badge](https://img.shields.io/badge/-dhruvalpb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhruvalpb/)](https://www.linkedin.com/in/dhruvalpb/) [![Gmail Badge](https://img.shields.io/badge/-dhruvalpb-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvalpb@gmail.com)](mailto:dhruvalpb@gmail.com)
-- ⚡ Fun fact: I love to draw! Checkout my art at ![Youtube Badge](https://img.shields.io/badge/-Dhruval-c14438?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCQBDMJ7UqiR-qrvcD80MbAQ)
+- ⚡ Fun fact: I'm also an artist! Checkout some of my work at [![Youtube Badge](https://img.shields.io/badge/-Dhruval-c14438?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCQBDMJ7UqiR-qrvcD80MbAQ)](https://www.youtube.com/channel/UCQBDMJ7UqiR-qrvcD80MbAQ)
 
 ## My Github Stats
 <p align="center">
